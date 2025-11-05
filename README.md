@@ -1,1 +1,2 @@
-# minigo66.github.io
+简单的地址发布页
+交流邮箱：dizhigo@gmail.com
